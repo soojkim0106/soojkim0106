@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **graduating Flatiron School**
 
-- 🌱 I’m currently learning **JavaScript, React, Python**
+- 🌱 I’m currently learning **JavaScript, React, Python, SQL**
 
 - 📝 I regularly write articles on [https://medium.com/@soojung.kimm](https://medium.com/@soojung.kimm)
 
