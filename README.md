@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soojkim0106&label=Profile%20views&color=0e75b6&style=flat" alt="soojkim0106" /> </p>
 
-- 🔭 I’m currently working on **learning TypeScript and Next.js**
+- 🔭 I’m currently working on **learning TypeScript and Java**
 
-- 🌱 I’m currently enhancing my knowledge of **JavaScript, React, Python with Flask, SQL**
+- 🌱 I’m currently enhancing my knowledge of **JavaScript, React, Python, Flask, SQL**
 
 - 📝 I regularly write articles on [https://medium.com/@soojung.kimm](https://medium.com/@soojung.kimm)
 
