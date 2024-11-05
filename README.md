@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soojung.kimm@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/soo-jung-kim-9957b9131/](https://www.linkedin.com/in/soo-jung-kim-9957b9131/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/soo-jung-kim0106/](https://www.linkedin.com/in/soo-jung-kim0106/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
